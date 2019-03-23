@@ -1,7 +1,6 @@
-Health Survey Analysis
+Health Survey Analysis - EDA pipeline
 ================
 Adel Rahmani
-23/03/2019
 
 ### Load a few libraries
 
